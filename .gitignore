@@ -1,0 +1,5 @@
+"__pycache__/" 
+"*.pyc" 
+"env/" 
+"*.pkl"   # if needed
+"__pycache__/" 
