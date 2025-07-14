@@ -3,3 +3,7 @@
 "env/" 
 "*.pkl"   # if needed
 "__pycache__/" 
+"__pycache__/" 
+"*.pyc" 
+"env/" 
+"*.pkl"   # if needed
